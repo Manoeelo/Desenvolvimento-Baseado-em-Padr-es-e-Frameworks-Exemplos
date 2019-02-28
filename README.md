@@ -1,1 +1,1 @@
-# Desenvolvimento-Baseado-em-Padr-es-e-Frameworks-Exemplos
+Exemplos da matéria de Desenvolvimento baseado em Padrões e Frameworks
